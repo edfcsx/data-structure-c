@@ -1,0 +1,18 @@
+# ninja log v5
+3	136	7130368022030250	CMakeFiles/Estruturas_de_dados_em_c.dir/main.c.obj	4bda3d5cd768a275
+131	309	7130368273423874	Estruturas_de_dados_em_c.exe	1b5c4f0e6fd8d473
+4	153	7130015669715301	CMakeFiles/Estruturas_de_dados_em_c.dir/linked_list.c.obj	6e3c4df0372ba02f
+2	205	7130377079077999	build.ninja	8bdace2399097b6c
+3	131	7130368271683872	CMakeFiles/Estruturas_de_dados_em_c.dir/stack.c.obj	8c43224c163aa008
+3	172	7130385607888593	CMakeFiles/Estruturas_de_dados_em_c.dir/main.c.obj	4bda3d5cd768a275
+14	193	7130385608208609	CMakeFiles/Estruturas_de_dados_em_c.dir/linked_list.c.obj	6e3c4df0372ba02f
+23	215	7130385608458611	CMakeFiles/Estruturas_de_dados_em_c.dir/queue.c.obj	9b7ab273da178e5e
+215	477	7130385611138543	Estruturas_de_dados_em_c.exe	23dfef71dc20666b
+12	137	7130388533607901	CMakeFiles/Estruturas_de_dados_em_c.dir/queue.c.obj	9b7ab273da178e5e
+3	145	7130388533697918	CMakeFiles/Estruturas_de_dados_em_c.dir/main.c.obj	4bda3d5cd768a275
+145	326	7130388535427870	Estruturas_de_dados_em_c.exe	23dfef71dc20666b
+4	221	7130434062154420	CMakeFiles/Estruturas_de_dados_em_c.dir/main.c.obj	4bda3d5cd768a275
+23	225	7130434062194472	CMakeFiles/Estruturas_de_dados_em_c.dir/queue.c.obj	9b7ab273da178e5e
+225	451	7130434064454429	Estruturas_de_dados_em_c.exe	23dfef71dc20666b
+2	143	7130434285418484	CMakeFiles/Estruturas_de_dados_em_c.dir/main.c.obj	4bda3d5cd768a275
+143	309	7130434287088493	Estruturas_de_dados_em_c.exe	23dfef71dc20666b
